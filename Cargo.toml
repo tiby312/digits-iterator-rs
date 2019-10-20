@@ -1,0 +1,14 @@
+[package]
+name = "digits_iterator"
+version = "0.1.0"
+authors = ["Félix <felix-dev@daudre-vignier.fr>"]
+license = "Apache-2.0"
+documentation = "https://docs.rs/digits_iterator/"
+repository = "https://gitlab.com/Boiethios/digits-iterator-rs"
+
+description = "Iterate over the digits of numbers in an arbitrary radix"
+keywords = ["iterator", "digits", "number", "integer", "radix"]
+categories = ["algorithms"]
+readme = "README.md"
+
+[dependencies]
